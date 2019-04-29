@@ -1,3 +1,3 @@
 # hello-world
 self-study 
-i swore study code.
+code is very beautiful
